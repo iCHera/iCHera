@@ -1,5 +1,5 @@
 <div align="center">
- <img height="400" width="1000" src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif">
+ <img height="300" width="600" src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif">
 </div>
 
 <h1 align="center"> Hello 👋 My my name Ilya</h1>
