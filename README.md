@@ -4,6 +4,12 @@
 
 <h1 align="center"> Hello 👋 My my name Ilya</h1>
 
+<div align="center">
+  <a href="https://t.me/igotswag1gotstyle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+</div>
+
 <div> 
 <h3 align="left">👨‍💻 About me</h3>
 
@@ -13,8 +19,8 @@
 I am currently studying at the Belarusian State University, majoring in Information Technology Software. At the moment I am actively learning JavaScript and the React library.
 I strive to constantly develop, learn new things and move forward. My main goal is to become a professional front-end developer, create convenient, modern and accessible interfaces</p>
 
-</div>
 
+</div>
 <h3 align="left">Stack:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -26,13 +32,10 @@ I strive to constantly develop, learn new things and move forward. My main goal 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
-
 </p>
 </div>
 
-<div align="left">
-    <h3> Social media:</h3>
-  <a href="https://t.me/igotswag1gotstyle" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="35" alt="telegram logo"  />
-  </a>
-</div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iCHera&layout=compact&theme=radical)
+
