@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+ <img height="400" width="1000" src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif">
 </div>
 
-<h1 align="center"> Hello 👋 My name is Ilya</h1>
+<h1 align="center"> Hello 👋 My my name Ilya</h1>
 
 <div align="center">
   <a href="https://t.me/igotswag1gotstyle" target="_blank">
