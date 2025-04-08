@@ -3,7 +3,7 @@
 
 </div>
 
-<h1 align="center"> Hello 👋 My my name is Ilya</h1>
+<h1 align="center"> Hello 👋 My name is Ilya</h1>
 
 <div align="center">
   <a href="https://t.me/igotswag1gotstyle" target="_blank">
