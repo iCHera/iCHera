@@ -38,5 +38,5 @@ I strive to constantly develop, learn new things and move forward. My main goal 
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iCHera&langs_count=7&layout=compact&theme=radical)
+
 
