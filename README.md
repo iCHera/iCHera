@@ -26,7 +26,7 @@ I strive to constantly develop, learn new things and move forward. My main goal 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn-icons-png.flaticon.com/512/5968/5968381.png)" height="40" alt="react logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40" alt="react logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
