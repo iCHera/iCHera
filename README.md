@@ -24,6 +24,8 @@ I strive to constantly develop, learn new things and move forward. My main goal 
 </div>
 <h3 align="left">Stack:</h3>
 <div align="left">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" alt="css3 logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40" alt="react logo"/>
@@ -31,10 +33,6 @@ I strive to constantly develop, learn new things and move forward. My main goal 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
 </p>
