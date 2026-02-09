@@ -24,7 +24,7 @@ I strive to constantly develop, learn new things and move forward. My main goal 
 </div>
 <h3 align="left">Stack:</h3>
 <div align="left">
-   <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png](https://images.icon-icons.com/2107/PNG/512/file_type_vue_icon_130078.png)" height="40" alt="css3 logo"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" alt="css3 logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12"/>
